@@ -1,0 +1,7 @@
+Intrusion Detection System                                                                                                                                   October’22 
+
+---> Deployed a smart contract in blockchain for detecting the intensity of intrusion attacks in Remix using Solidity. 
+
+---> Classified attacks as weak, intermediate or strong according to the log value of attack taken as input feature from packets. 
+
+---> Authorized transactions and connected them to blockchain using DApps with intrusion detection smart contract as backend. 
